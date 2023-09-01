@@ -92,7 +92,7 @@ const Who = () => {
     </Canvas>
         </Left>
         <Right> 
-        <Title>Kuch Kuch</Title>
+        <Title>Title</Title>
         <WhatIDo>
 <Line src="./img/line.png" />
 <Subtitle>What I Do</Subtitle>
